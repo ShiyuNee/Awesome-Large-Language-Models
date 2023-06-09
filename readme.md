@@ -12,6 +12,4 @@
 
 We thank all the great contributors very much.
 
-## Contents
-
-- [Conversation System](#conversational-system)
+- [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165). *Tom B. Brown et.al.* arxiv 2020
