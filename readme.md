@@ -12,4 +12,6 @@
 
 We thank all the great contributors very much.
 
+- [Learning to summarize from human feedback](https://arxiv.org/abs/2009.01325v2). *Nisan Stiennon et.al.* NeurIPS 2020
+
 - [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165). *Tom B. Brown et.al.* arxiv 2020
